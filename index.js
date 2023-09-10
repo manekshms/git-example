@@ -1,3 +1,3 @@
-function findStringLength(str) {
+const findStringLength = (str) => {
   return str.length;
-}
+};
