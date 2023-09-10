@@ -1,0 +1,1 @@
+const getObjKey = (obj, key) => obj[key];
